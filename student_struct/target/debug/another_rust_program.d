@@ -1,0 +1,1 @@
+/workspaces/rustspring25/financial_data_fetcher_rust/target/debug/another_rust_program: /workspaces/rustspring25/financial_data_fetcher_rust/src/main.rs
