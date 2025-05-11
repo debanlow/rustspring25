@@ -1,0 +1,48 @@
+{
+  "url": "https://example.com",
+  "status": 200,
+  "response_time_ms": 69,
+  "timestamp_unix": 1746971294
+}
+{
+  "url": "https://google.com",
+  "status": 200,
+  "response_time_ms": 133,
+  "timestamp_unix": 1746971294
+}
+{
+  "url": "https://example.com",
+  "status": 200,
+  "response_time_ms": 65,
+  "timestamp_unix": 1746971880
+}
+{
+  "url": "https://google.com",
+  "status": 200,
+  "response_time_ms": 129,
+  "timestamp_unix": 1746971880
+}
+{
+  "url": "https://example.com",
+  "status": 200,
+  "response_time_ms": 196,
+  "timestamp_unix": 1746972042
+}
+{
+  "url": "https://google.com",
+  "status": 200,
+  "response_time_ms": 135,
+  "timestamp_unix": 1746972042
+}
+{
+  "url": "https://thisurldoesnotexist.tld",
+  "status": "error sending request for url (https://thisurldoesnotexist.tld/): error trying to connect: dns error: failed to lookup address information: Name or service not known",
+  "response_time_ms": 140,
+  "timestamp_unix": 1746972121
+}
+{
+  "url": "https://google.com",
+  "status": 200,
+  "response_time_ms": 127,
+  "timestamp_unix": 1746972121
+}
